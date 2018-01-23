@@ -2,8 +2,8 @@
 //  SpeedometerTests.swift
 //  SpeedometerTests
 //
-//  Created by iT Gurus Software on 22/12/17.
-//  Copyright © 2017 iT Gurus Software. All rights reserved.
+//  Created by Amol Pawar on 22/12/17.
+//  Copyright © 2017 Amol Pawar Software. All rights reserved.
 //
 
 import XCTest
